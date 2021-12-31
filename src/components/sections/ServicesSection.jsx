@@ -34,10 +34,7 @@ export const ServicesSection = () => {
               <FaBrain />
             </IconWrapper>
             <h1>Analytical Mindset</h1>
-            <p>
-              If there is a problem, there is a solution. If there is already a
-              solution, we can always make it simpler,better!
-            </p>
+            <p>Find effiecent solutions and improve the existing ones.</p>
           </SingleService>
         </ServicesItems>
       </StyledServicesSection>

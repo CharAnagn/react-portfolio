@@ -23,6 +23,10 @@ export const AboutSection = () => {
             working on the front-end using CSS and React. I develop web
             applications using the MERN Stack.
           </p>
+          <p>
+            Fast learner and always eager to try new techonologies that suit the
+            present project.
+          </p>
         </AboutContent>
       </StyledAboutSection>
       <hr />
