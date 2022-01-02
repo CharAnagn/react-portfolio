@@ -16,6 +16,11 @@ export const ProjectsContent = styled.div`
   margin: auto;
   align-items: center;
   justify-content: center;
+
+  @media (max-width: ${({ theme }) => theme.mobile}) {
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 20%;
+  }
 `;
 
 export const TypewriterText = styled.div`
@@ -23,7 +28,6 @@ export const TypewriterText = styled.div`
   letter-spacing: 0.2rem;
   font-weight: 600;
   font-size: 1.2rem;
-
   margin: auto;
   text-align: left;
   padding: 0 0 8rem 16rem;
@@ -34,6 +38,6 @@ export const TypewriterText = styled.div`
 
   @media (max-width: ${({ theme }) => theme.mobile}) {
     font-size: 0.8rem;
-    padding: 0 0 3rem 13rem;
+    padding: 0 0 0 2rem;
   }
 `;
