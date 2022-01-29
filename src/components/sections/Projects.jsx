@@ -5,7 +5,7 @@ export const Projects = [
     tags: ["React", "Redux", "Ant Design"],
     paragraph: [
       "Cryptocurrency app with in-depth data of all the cryptocurrencies, markets and news.",
-      "Coded using React and Redux toolkit for state managment and Ant Design",
+      "Coded using React and Redux toolkit for state management and Ant Design",
     ],
     codelink: "https://github.com/CharAnagn/Crypto-app",
     projectlink: "https://crypto-app-ch.netlify.app/",
