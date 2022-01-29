@@ -4,7 +4,7 @@ import { NavBar } from "./components/layout/navbar";
 import { AboutSection } from "./components/sections/AboutSection";
 import { ContactSection } from "./components/sections/ContactSection";
 import { HeroSection } from "./components/sections/HeroSection";
-import { Projects } from "./components/sections/Projects";
+import { ProjectSection } from "./components/sections/ProjectsSection";
 import { ServicesSection } from "./components/sections/ServicesSection";
 import { Container } from "./components/styles/common/container.style";
 import { GlobalStyles } from "./components/styles/Globals.styled";
@@ -31,7 +31,7 @@ const App = () => {
         <HeroSection />
         <Container>
           <AboutSection />
-          <Projects />
+          <ProjectSection />
           <ServicesSection />
           <ContactSection />
         </Container>

@@ -20,12 +20,10 @@ export const AboutSection = () => {
           </StyledHeading>
           <p>
             I am Babis, a web developer based in the Netherlands. I mostly love
-            working on the front-end using CSS and React. I develop web
-            applications using the MERN Stack.
+            working on the front-end using React.
           </p>
           <p>
-            Fast learner and always eager to try new techonologies that suit the
-            present project.
+           Passionate about technology and modern design with animations and pleasant user experience.
           </p>
         </AboutContent>
       </StyledAboutSection>
