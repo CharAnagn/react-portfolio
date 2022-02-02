@@ -32,7 +32,7 @@ export const HeroSection = () => {
       </StyledArrowDown>
       <HeroSocialIcons>
         <SocialIcon
-          href="https://www.linkedin.com/in/charalampos-anagnostou-236a061a3"
+          href="https://www.linkedin.com/in/charalampos-anagnostou"
           target="_blank"
         >
           <FaLinkedin></FaLinkedin>
