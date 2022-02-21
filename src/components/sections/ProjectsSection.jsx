@@ -13,7 +13,7 @@ import { Projects } from "./Projects";
 export const ProjectSection = () => {
   return (
     <>
-      <StyledProjectsSection>
+      <StyledProjectsSection id="projects">
         <SectionHeading>
           <h1>Projects</h1>
         </SectionHeading>
