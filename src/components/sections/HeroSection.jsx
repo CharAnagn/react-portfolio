@@ -25,7 +25,7 @@ export const HeroSection = () => {
         />
 
         <h3>{"{Front-End Web Developer}"}</h3>
-        <p>HTML . CSS . JavaScript . React . Next.js</p>
+        <p>HTML . CSS . JavaScript . React . Typescript</p>
       </HeroContent>
       <StyledArrowDown href="#about">
         <FaArrowDown />
