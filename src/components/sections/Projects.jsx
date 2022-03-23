@@ -1,5 +1,14 @@
 export const Projects = [
   {
+    thumbnail:"./images/minimal.png",
+    title:"Animated Landing Page",
+    tags:["HTML/CSS", "GSAP"],
+    paragraph:["A landing page with modern animations with GSAP. Recommended desktop view."],
+    codelink:"https://github.com/CharAnagn/house-design",
+    projectlink:"https://house-design-ch.netlify.app/",
+    projectlink:"View Project"
+  },
+  {
     thumbnail: "./images/cryptoapp.png",
     title: "Crypto App",
     tags: ["React", "Redux", "Ant Design"],
