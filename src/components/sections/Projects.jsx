@@ -1,7 +1,17 @@
 export const Projects = [
   {
+    thumbnail:"./images/urban.png",
+    title:"Clothing Langing Page",
+    tags:["HTML/CSS"],
+    paragraph:["A langing page for clothing with GSAP"],
+    codelink:"https://github.com/CharAnagn/urban-streetwear",
+    projectlink:"https://urban-streetwear-ch.netlify.app/",
+    projectlinkText:"View Project",
+
+  },
+  {
     thumbnail:"./images/minimal.png",
-    title:"Animated Landing Page",
+    title:"House Design Landing Page",
     tags:["HTML/CSS", "GSAP"],
     paragraph:["A landing page with modern animations with GSAP. Recommended desktop view."],
     codelink:"https://github.com/CharAnagn/house-design",
