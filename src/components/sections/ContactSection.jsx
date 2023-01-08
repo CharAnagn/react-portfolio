@@ -17,8 +17,7 @@ export const ContactSection = () => {
         <DetailsWrapper>
           <ContactInfo>
             <p>
-              I would love if you reached out to me. Drop me a line and I will
-              get back to you ASAP!
+              I would love if you reached out to me.
             </p>
 
             <div>
