@@ -1,16 +1,16 @@
 export const Projects = [
   {
     thumbnail:"./images/mybike.png",
-    tittle:"My bike landing page",
+    title:"My bike landing page",
     tags:["HTML/CSS","SCSS","BEM"],
-    paragraph:["A landing page"],
+    paragraph:["A langing page with BEM methodology and SCSS"],
     codelink:"https://github.com/CharAnagn/layout_miami",
     projectlink:"https://charanagn.github.io/layout_miami/",
     projectlinkText:"View Project"
   },
   {
     thumbnail:"./images/urban.png",
-    title:"Clothing Langing Page",
+    title:"Clothing Landing Page",
     tags:["HTML/CSS"],
     paragraph:["A langing page for clothing with GSAP"],
     codelink:"https://github.com/CharAnagn/urban-streetwear",
