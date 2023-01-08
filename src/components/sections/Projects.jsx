@@ -19,15 +19,6 @@ export const Projects = [
 
   },
   {
-    thumbnail:"./images/minimal.png",
-    title:"House Design Landing Page",
-    tags:["HTML/CSS", "GSAP"],
-    paragraph:["A landing page with modern animations with GSAP. Recommended desktop view."],
-    codelink:"https://github.com/CharAnagn/house-design",
-    projectlink:"https://house-design-ch.netlify.app/",
-    projectlinkText:"View Project",
-  },
-  {
     thumbnail: "./images/cryptoapp.png",
     title: "Crypto App",
     tags: ["React", "Redux", "Ant Design"],
