@@ -30,14 +30,4 @@ export const Projects = [
     projectlink: "https://crypto-app-ch.netlify.app/",
     projectlinkText: "View Project",
   },
-  {
-    thumbnail:"./images/cocktail-app-photo.png",
-    title: "Cocktail App",
-    tags: ["React", "Redux toolkit","Styled-components"],
-    paragraph: ["Cocktail app that displays over 500 cocktails, with recipes and ingredients."],
-    codelink: "https://github.com/CharAnagn/cocktail-app",
-    projectlink:"https://cocktail-app-ch.netlify.app/",
-    projectlinkText:" View Project",
-    
-  }
 ];

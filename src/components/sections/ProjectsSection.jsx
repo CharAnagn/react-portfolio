@@ -39,11 +39,11 @@ export const ProjectSection = () => {
                   <p>{project.paragraph[0]}</p>
                   <p>{project.paragraph[1]}</p>
                   <div>
-                    <a href={project.codelink} target="_blank">
+                    <a href={project.codelink} target="_blank" rel="noreferrer">
                       <FaGithub />
                       <span>View Code</span>
                     </a>
-                    <a href={project.projectlink} target="_blank">
+                    <a href={project.projectlink} target="_blank" rel="noreferrer">
                       <FaLink />
                       <span>{project.projectlinkText}</span>
                     </a>
