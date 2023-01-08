@@ -23,7 +23,7 @@ export const ContactSection = () => {
 
             <div>
               <a href="mailto:babisanagnostou94@gmail.com">
-                <FaEnvelope /> <span>babisanagnostou94@gmail.com</span>
+                <FaEnvelope /> <span>cganagnostou@gmail.com</span>
               </a>
             </div>
           </ContactInfo>
