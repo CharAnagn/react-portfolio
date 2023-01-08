@@ -1,11 +1,11 @@
 export const Projects = [
   {
-    thumbnail:"./images/earth.png",
-    tittle:"ScrocllTrigger Gsap",
-    tags:["HTML/CSS","GSAP","ScrollTrigger"],
-    paragraph:["A landing page with GSAP and ScrollTrigger"],
-    codelink:"https://github.com/CharAnagn/earth-gsap",
-    projectlink:"https://earth-ch.netlify.app/",
+    thumbnail:"./images/mybike.png",
+    tittle:"My bike landing page",
+    tags:["HTML/CSS","SCSS","BEM"],
+    paragraph:["A landing page"],
+    codelink:"https://github.com/CharAnagn/layout_miami",
+    projectlink:"https://charanagn.github.io/layout_miami/",
     projectlinkText:"View Project"
   },
   {
