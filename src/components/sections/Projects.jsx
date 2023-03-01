@@ -1,5 +1,14 @@
 export const Projects = [
   {
+    thumbnail:"./images/todo.png",
+    title:"Todo App",
+    tags:["Typescript", "React.js","Fetch, REST API","Sass"],
+    paragraph:["Todo App"],
+    codelink:"https://github.com/CharAnagn/react_todo-app-with-api/tree/develop",
+    projectlink:"https://charanagn.github.io/react_todo-app-with-api/",
+    projectlinkText:"View Project"
+  },
+  {
     thumbnail:"./images/mybike.png",
     title:"My bike landing page",
     tags:["HTML/CSS","SCSS","BEM"],
